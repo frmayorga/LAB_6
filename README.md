@@ -10,6 +10,7 @@
 
 # MARCO TEORICO
 
+![teorema de potencia](https://user-images.githubusercontent.com/93361435/148871802-5b3d6a8b-b4f9-4f48-a644-7f0e7d0f9d33.jpg)
 
 **CODIGO DE COLORES PARA RESISTORES DE 4 BANDAS** 
 
