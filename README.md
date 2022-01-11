@@ -56,8 +56,7 @@ Se midio el voltaje y corriente de los resistores en tinkercad despues se proced
 | 4700 Ohmios |  2.54 mA |  11.90 V |------------------------------------------|  30.72 mW |
 
 
-#### 6.5.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su
-respuesta.
+#### 6.5.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
 
 
 
