@@ -66,7 +66,7 @@ Se midio el voltaje y corriente de los resistores en tinkercad despues se proced
 
 #### 6.5.6. ¿Para qué valor de RL se obtiene la MTP?
 
-- la maxima transferencia de potencia se obtiene cuando RL es igual a 1000 Ohms
+- la maxima transferencia de potencia se obtiene cuando RL es igual a 1000 Ohms para los resistores proporcionados en este trabajo, sin embargo, la verdadera potencia maxima se alcanza cuando Rl es 1200 Ohms.
 
 
 ## CÁLCULO DE ERROR
