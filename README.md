@@ -58,7 +58,7 @@ Se midio el voltaje y corriente de los resistores en tinkercad despues se proced
 
 #### 6.5.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
 
-
+- Si, ya que como se observo al momento del que el valor de RL se acerca al valor de R1 la potencia aumenta, sin embargo cuando este valor aumenta la potencia no hace mas que disminuir, demostrando que para tener la potencia máxima R1 = RL  
 
 #### 6.5.5 ¿Cuál fue la potencia máxima en RL?
 
@@ -67,6 +67,14 @@ Se midio el voltaje y corriente de los resistores en tinkercad despues se proced
 #### 6.5.6. ¿Para qué valor de RL se obtiene la MTP?
 
 - la maxima transferencia de potencia se obtiene cuando RL es igual a 1000 Ohms
+
+
+## CÁLCULO DE ERROR
+
+Calculo de error de la potencia en los distintos resistores: 
+
+![image](https://user-images.githubusercontent.com/93361435/149404872-9701c2a5-5936-4c94-a775-aad7472dbd80.png)
+
 
 
 # VIDEO
