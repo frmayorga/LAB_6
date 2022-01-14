@@ -75,6 +75,8 @@ Calculo de error de la potencia en los distintos resistores:
 
 ![image](https://user-images.githubusercontent.com/93361435/149404872-9701c2a5-5936-4c94-a775-aad7472dbd80.png)  
 
+![image](https://user-images.githubusercontent.com/93561706/149441021-31ff949e-d294-4b84-aac4-8a53515f236d.png)
+
 ![image](https://user-images.githubusercontent.com/93398718/149416869-a25012bf-45b8-4be9-bb2a-ddd638ed80b4.png)  
 
 
