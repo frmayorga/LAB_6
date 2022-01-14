@@ -62,7 +62,7 @@ Se midio el voltaje y corriente de los resistores en tinkercad despues se proced
 
 #### 6.5.5 ¿Cuál fue la potencia máxima en RL?
 
-
+- La potencia maxima en la parte medida fue de 50 mW cuando el resistor es de 1500 ohmios, pero la maxima medidada fue de 46.51 mW cuando el resistor es de 1000 ohmios.
 
 #### 6.5.6. ¿Para qué valor de RL se obtiene la MTP?
 
