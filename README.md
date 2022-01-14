@@ -86,6 +86,7 @@ Calculo de error de la potencia en los distintos resistores:
 
 # VIDEO
 
+https://youtu.be/V3VHKAaO3Pw
 
 # CONCLUSIONES
 - el teorema de maxima transferencia de potencia se cumple pues pudimos notar que una vez pasada la zona en la cual se encontraba el valor del resisitor que causa este efecto la potencia empezaba a disminuir sin importar que el valor de la resistencia aumentara.
