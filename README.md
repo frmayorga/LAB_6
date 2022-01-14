@@ -4,9 +4,13 @@
 
 ## OBJETIVO GENERAL 
  
+- Demostrar experimentalmente el teorema de la maxima transferencia de potencia con la ayuda del simulador DCACLab, en el problema dado, para indicar las corrientes, voltajes y potencias corespondidnetes, al modificar un resistor(Rl) en el circuito indicado.   
 
 ## OBJETIVO ESPECIFICO
 
+- Hallar los valores correspondientes de voltaje, corriente y potencia en el simulador, al cambiar el dato de Rl.
+- Determinar con los calculos la potencia en cada caso y comparar con el valor del simulador.
+- Buscar el error porcentual que exiten en las potencias de los diferentes datos del Rl. 
 
 # MARCO TEORICO
 
